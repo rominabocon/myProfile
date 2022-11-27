@@ -1,15 +1,10 @@
-Hola! 👋 😄
-Mi nombre es Romina Bocon.
-Comencé a estudiar programación de manera autodidacta a principios de 2018 💻
-En 2022 me egresé en el bootcam de full-stack development de la academia Henry. 🕑 📚 📅
-En mi proyecto final, creamos un e-commerce que pueden ver en https://frontend-five-gules.vercel.app/
-Tecnologías que manejo: HTML, CSS, Javascrip, React, Redux, Express, SQL, Sequelize entre otras.😜
+# Romina Bocon
 
---
+## _Full Stack Developer_
 
-Hello! 👋 😄
-Mi name is Romina Bocon.
-I started to study programming at the begining of 2018.💻
-In 2022 I was accepted in SoyHenry's Bootcamp to become a full-stack developer. 🕑 📚 📅
-For my project final on Henry, me and my team created a whole e-commerce that you can see in https://frontend-five-gules.vercel.app/
-My skills are HTML, CSS, Javascrip, React, Redux, Express, SQL, Sequelize, among others.😜
+Since 2018 I have been studying different programming languages and frameworks libreries.
+I have experience on
+
+![N|Solid](https://cdn.iconscout.com/icon/free/png-256/react-4-1175110.png)![N|Solid](https://cdn.iconscout.com/icon/free/png-256/javascript2752148-2284965.png)![N|Solid](https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png)![N|Solid](https://sp-ao.shortpixel.ai/client/q_glossy,ret_img,w_256/https://itsolution24x7.com/blog/wp-content/uploads/2020/06/express.png)![N|Solid](https://firebaseopensource.com/logo-small.png)![N|Solid](https://images.vexels.com/media/users/3/166469/isolated/lists/b2e19f499948749f4a6709c7952874ba-php-programming-language-flat.png)![N|Solid](https://antie.com.ar/wp-content/uploads/2021/01/WordPress_blue_logo.png)![N|Solid](https://api.civo.com/k3s-marketplace/postgresql.png)![N|Solid](https://www.manejandodatos.es/wp-content/uploads/2013/07/html5_logo.png)
+
+Right now I'm working as a Wordpress Developer in a USA company, and I have several projects on the build with React JS.
